@@ -18,6 +18,7 @@ kaboomConfig.loadSprite('spritesheet', './spritesheet.png', {
 })
 
 kaboomConfig.loadSprite('map', './map.png');
+// setting the default background colour of the application from here
 kaboomConfig.setBackground(kaboomConfig.Color.fromHex('#311047'));
 
 // to create the scene, the function has been named as main
@@ -74,7 +75,7 @@ kaboomConfig.scene('main', async () => {
           player.onCollide(boundary.name, () => {
             // to prevent the player from moving when the textbox is being displayed
             player.isInDialogue = true;
-            
+
           });
         }
       }
