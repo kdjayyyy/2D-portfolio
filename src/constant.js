@@ -2,23 +2,27 @@
 export const scaleFactor = 4;
 
 export const dialogueData = {
-  pc: `This is my PC. I work mostly in JavaScript/TypeScript these days.
-    I've made a couple of games in that language. I also like Golang and Python. Anyway regardless of the language, I just like programming.
-    Here is my <a href="https://github.com/jslegenddev" target="_blank">Github</a>!`,
-  "cs-degree": `This is my CS degree. I hung it on the wall because I'm proud of it. It was a very theoretical degree but I think it gave me a good foundation.`,
-  "sofa-table": `That's my sofa. I like to relax here and watch YouTube. 
-  I also make game programming tutorials on YouTube. Go sub to <a href="https://youtube.com/@jslegenddev" target="_blank">my channel</a>! (If you like the content)
-  You'll learn how I built this portfolio you're currently playing through!`,
-  tv: `That's my TV. I've been watching tech youtubers a lot recently like :
-   <a href="https://www.youtube.com/@ThePrimeTimeagen" target="_blank">Theprimeagen</a>, <a href="https://www.youtube.com/@t3dotgg" target="_blank">Theo - t3.gg</a>,
-  <a href="https://www.youtube.com/@PirateSoftware" target="_blank">PirateSoftware</a> (sometimes) and <a href="https://www.youtube.com/@MelkeyDev" target="_blank">Melkey</a>!`,
-  bed: `This where I sleep. Great ideas comes when I'm lying on my bed. When an idea strikes, I often have to write it down or else I won't be able to sleep because my mental energy is consumed by it.`,
-  resume: `This is my desk and on it is my resume. <a href="https://github.com/JSLegendDev/Resume/blob/main/JSLegend%20Resume-1.pdf" target="_blank">Check it out?</a>
-  Contact me at jslegend@protonmail.com if you have any interesting job opportunities!`,
-  projects: `Info about this portfolio : It's made with the Kaboom.js library which is a library for making games in JavaScript.
-  Text is rendered with HTML/CSS. So the textbox you're currently reading is not rendered within canvas. Learn more about how to use
-  Kaboom.js by watching some of my tutorials <a href="https://youtube.com/@jslegenddev" target="_blank">here</a>.`,
-  library: `There are a lot of programming books on my shelves. There is even one in French (I also speak French btw).
-  I probably only read one of them. Who else compulsively buys technical books without ever finishing them?`,
-  exit: `If you want to exit JSLegendDev's portfolio, just close the tab.`,
+  pc: `This is my PC. My preferred domain is Full stack development. I also dedicate my time to learning Competitive Programming, mostly in C++, although I do practice in Java now and then.
+  Here are my <a href="https://github.com/kdjayyyy" target="_blank">Github</a>, <a href="https://codeforces.com/profile/kdjayyyy" target="_blank">Codeforces</a>, <a href="https://www.codechef.com/users/kd_26" target="_blank">Codechef</a> and my <a href="https://leetcode.com/u/kdjayyyy/" target="_blank">Leetcode</a> profiles!`,
+
+  'degree': `This space here is reserved for my B.Tech degree. Although I am pursuing a Bachelor's in Petroleum Engineering, my interests lie in the domain of coding and tech!`,
+
+  'sofa-table': `That's my sofa. I like to relax here, brainstorm and look out for relevant information in the tech world from sources across the web.`,
+
+  tv: `That's my TV. I mostly stick to tech youtubers for staying updated with the tech world and also for gaining some insights into problem solving. Some of my favourites are :
+   <a href="https://www.youtube.com/@freecodecamp" target="_blank">freeCodeCamp.org</a>, <a href="https://www.youtube.com/@ProgrammingWithHarry" target="_blank">Programming With Harry</a>,
+  <a href="https://www.youtube.com/@takeUforward" target="_blank">take U forward</a> and <a href="https://www.youtube.com/@Telusko" target="_blank">Telusko</a> to name some.`,
+
+  bed: `This is my bed, where I recharge my neural networks. A place where the algorithms of creativity run wild amidst the cozy confines of my bed. Ideas, like threads of code, weave through the fabric of my consciousness. When the muse of innovation strikes, I must hastily transcribe the binary of inspiration into tangible form, lest the RAM of my mind becomes overwhelmed with processing.`,
+
+  resume: `This is my desk and on it is my resume. <a href="https://drive.google.com/file/d/1y-lAOlF2uc8-cTRzABALQcasim_-zU_u/view?usp=sharing" target="_blank">Check it out?</a>
+  Contact me at kinjaldas2206@gmail.com if you wish to have a chat!`,
+
+  projects: `Info about this portfolio : It's made with the Kaboom.js library which is used for making games in JavaScript. The overall backbone has been built upon Vite.js.
+  Text is rendered with HTML/CSS. So the textbox you're currently reading is not rendered within canvas. 
+  Besides this project, I have also worked in a couple of hackathons that have further solidified my knowledge of the software engineering world. Check them out in my resume!`,
+
+  library: `There are a lot of books on my shelf, mostly novels that intrigued me during my juvenile days. Besides that I stick to programming books (I mean, obviously!)`,
+  
+  exit: `If you wish to exit the portfolio, just close this tab!`,
 };
