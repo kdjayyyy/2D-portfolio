@@ -15,7 +15,7 @@ export const dialogueData = {
 
   bed: `This is my bed, where I recharge my neural networks. A place where the algorithms of creativity run wild amidst the cozy confines of my bed. Ideas, like threads of code, weave through the fabric of my consciousness. When the muse of innovation strikes, I must hastily transcribe the binary of inspiration into tangible form, lest the RAM of my mind becomes overwhelmed with processing.`,
 
-  resume: `This is my desk and on it is my resume. <a href="https://drive.google.com/file/d/1y-lAOlF2uc8-cTRzABALQcasim_-zU_u/view?usp=sharing" target="_blank">Check it out?</a>
+  resume: `This is my desk and on it is my resume. <a href="https://drive.google.com/file/d/1gzVLqvN55X-D5wg_dOb1FlhpdNf0IlcD/view?usp=sharing" target="_blank">Check it out?</a>
   Contact me at kinjaldas2206@gmail.com if you wish to have a chat!`,
 
   projects: `Info about this portfolio : It's made with the Kaboom.js library which is used for making games in JavaScript. The overall backbone has been built upon Vite.js.
