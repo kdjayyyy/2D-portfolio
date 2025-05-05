@@ -14,19 +14,19 @@ A **2D portfolio** project built with [Vue.js](https://vuejs.org/) and [Kaboom.j
 ## 🖼️ Screenshots
 
 ### Home Screen
-![Home Screen](insert-your-screenshot-link-here)
+![Home Screen](./public/map.png)
 
-### Projects Section
-![Projects Section](insert-your-screenshot-link-here)
+<!-- ### Projects Section
+![Projects Section](insert-your-screenshot-link-here) -->
 
 ### Skills Section
-![Skills Section](insert-your-screenshot-link-here)
+![Skills Section](./public/skills_section.png)
 
 ---
 
-## 🚀 Demo
+<!-- ## 🚀 Demo
 
-Check out the live version of the portfolio here: [Live Demo](insert-demo-link-here)
+Check out the live version of the portfolio here: [Live Demo](insert-demo-link-here) -->
 
 ---
 
