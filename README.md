@@ -47,3 +47,9 @@ Follow these steps to run the project locally:
 1. **Clone the repo**:
    ```bash
    git clone https://github.com/your-username/your-repo-name.git
+   ```
+
+2. **Run the project**:
+   ```bash
+   npm run dev
+   ```
